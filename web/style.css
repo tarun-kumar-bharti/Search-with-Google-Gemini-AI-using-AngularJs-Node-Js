@@ -1,0 +1,26 @@
+.container{
+    width: 60%;
+    min-height: 300px;
+    margin: 0 auto; 
+	padding:10px;
+}
+.container .row1{	 
+    -webkit-flex: 1;  
+    -ms-flex: 1;  
+    flex: 1;  
+}
+.container .row0{    
+	text-align:center;
+    -webkit-flex: 1;  
+    -ms-flex: 1;  
+    flex: 1; 
+}
+.container .row2{ 
+	height:auto;
+	overflow:hidden;;
+    -webkit-flex: 1;  
+    -ms-flex: 1;  
+    flex: 1;  
+    margin-top: 10px;
+    padding: 0 7px 0 7px;   
+}
