@@ -1,5 +1,5 @@
 # Search-with-Google-Gemini-AI-using-Node-Js
-Build a search application that leverages Google Gemini AI with Node.js.
+Build a search application that leverages Google Gemini AI with AngularJs & Node.js.
 
 Textual search and document based search is this correct sentence
 
